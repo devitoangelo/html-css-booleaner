@@ -1,6 +1,6 @@
 body{
     font-family: 'Roboto', sans-serif;
-    font-size: 25px;
+    font-size: 10px;
     
     
 }
@@ -93,6 +93,49 @@ body{
 
 
 }
+
+   
+    
+
+
+
+
+#table{
+    background-color: blue;
+    color: white;
+
+
+
+}
+
+
+
+#table1{
+    background-color: skyblue;
+
+
+
+}
+
+#table2{
+
+    background-color:rgb(205, 237, 237);
+
+
+}
+
+
+
+
+
+#table3{
+    background-color: skyblue;
+  
+
+}
+
+
+
 
 
 
