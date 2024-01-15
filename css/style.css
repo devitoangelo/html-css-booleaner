@@ -1,0 +1,48 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+
+#site-header{
+    background-color: #4ea0ff;
+
+
+
+}
+
+
+#image{
+
+    width: 1450px;
+    height:150px
+
+
+}
+
+
+#editore1{
+    color: skyblue
+
+
+}
+
+#editore2{
+    color: grey;
+
+}
+
+.logo{
+    width: 300px ;
+    height: 150px;
+
+
+
+}
+
+
+#editore3{
+    color: gray;
+
+
+}
